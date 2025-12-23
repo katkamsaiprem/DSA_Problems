@@ -1,4 +1,4 @@
-package Starproblems;
+package StarProblems;
 
 import java.util.Scanner;
 

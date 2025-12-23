@@ -1,4 +1,4 @@
-package Starproblems;
+package StarProblems;
 
 /*
 10.Write a program in Java to display the following pattern 
@@ -12,7 +12,10 @@ package Starproblems;
 ****
 *****
 ----------------------------
-
+   *
+  ***
+ *****
+*******
  */
 public class InvertedAndNormalTriangle {
 
