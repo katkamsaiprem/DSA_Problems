@@ -1,10 +1,10 @@
-1.Find the sum of digits of a given number.
+1.Find the sum of digits of a given number.✔️
 
-2.Count how many even and odd digits are present in a number.
+2.Count how many even and odd digits are present in a number.✔️
 
-3.Find the largest digit in a given number
+3.Find the largest digit in a given number✔️
 
-4.Check if a number is a palindrome (reverse == original).
+4.Check if a number is a palindrome (reverse == original).✔️
 
 5.Generate the first N Fibonacci numbers using a loop.✔️
 
