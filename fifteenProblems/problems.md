@@ -8,9 +8,9 @@
 
 5.Generate the first N Fibonacci numbers using a loop.✔️
 
-6.Count how many numbers between 1 and N are divisible by 3 and 5.
+6.Count how many numbers between 1 and N are divisible by 3 and 5.✔️
 
-7.Print the sum of all multiples of 7 between 1 and N.
+7.Print the sum of all multiples of 7 between 1 and N.✔️
 
 8.Print a right triangle star pattern.✔️
 
