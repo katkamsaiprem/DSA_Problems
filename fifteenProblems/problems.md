@@ -37,7 +37,7 @@ Total overtime hours
 
 Total additional salary (₹150 per overtime hour)
 
-12. Loan EMI Breakdown
+12. Loan EMI Breakdown✔️
 
 Take a loan amount and interest rate.
 Simulate 12 months using loops to calculate:
@@ -51,7 +51,7 @@ Interest paid each month
 Remaining balance
 
 
-13. Toll Tax Billing
+13. Toll Tax Billing✔️
 
 N vehicles pass through a toll gate. Based on vehicle type:
 
@@ -71,7 +71,7 @@ Vehicle count by type
 Highest paying vehicle category
 
 
-14.Traffic Signal Timer Simulation
+14.Traffic Signal Timer Simulation✔️
 
 Simulate traffic light for 50 seconds using loop:
 
@@ -82,7 +82,7 @@ Yellow = 5 sec
 Green = 25 sec
 Print the color displayed every second.
 
-15. Library Fine System
+15. Library Fine System✔️
 
 For N books returned:
 Input delay days.

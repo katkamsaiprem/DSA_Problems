@@ -73,7 +73,7 @@ public class TollTax {
 
         }
         int totalRevenue = carRevenue + bikeRevenue + truckRevenue;
-        
+
         TollTaxReport(totalRevenue, carCount, carRevenue, bikeCount, bikeRevenue, truckCount, truckRevenue);
 
     }
